@@ -1,0 +1,4 @@
+{
+  "application/json": ["bar"],
+  "foo/bar": ["foo"]
+}

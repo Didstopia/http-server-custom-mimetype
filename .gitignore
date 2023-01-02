@@ -1,0 +1,24 @@
+# Ignore everything by default
+*
+
+# Git
+!.gitignore
+!.gitattributes
+!.gitkeep
+
+# Resources
+!*.md
+!README
+!LICENSE
+!CHANGELOG
+!CONTRIBUTING
+!AUTHORS
+!*.txt
+!*.json
+!/static
+!/static**/*
+
+# Go
+!*.go
+!*.mod
+!*.sum
